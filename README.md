@@ -45,13 +45,13 @@ cd loans
   POST /loan
 ```
 
-| Parâmetro  | Tipo      | Descrição                               |
-|:-----------|:----------|:----------------------------------------|
-| `age`      | `integer` | **Obrigatório**. Idade do cliente       |
-| `cpf`      | `string`  | **Obrigatório**. CPF do cliente         |
-| `name`     | `string`  | **Obrigatório**. Nome do cliente        |
-| `income`   | `double`  | **Obrigatório**. Renda do cliente       |
-| `location` | `string`  | **Obrigatório**. Localização do cliente |
+| Parâmetro  | Tipo      | Descrição                         |
+|:-----------|:----------|:----------------------------------|
+| `age`      | `integer` | **Obrigatório**. Idade do cliente |
+| `cpf`      | `string`  | **Obrigatório**. CPF do cliente   |
+| `name`     | `string`  | **Obrigatório**. Nome do cliente  |
+| `income`   | `double`  | **Obrigatório**. Renda do cliente |
+| `location` | `string`  | **Obrigatório**. UF do cliente    |
 
 ## 🤝 Colaboradores
 
