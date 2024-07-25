@@ -1,0 +1,72 @@
+[33mcommit b9dde5a04954af53f6cee4f0f4d80fca31273b91[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdev[m[33m)[m
+Author: = <=>
+Date:   Thu Jul 25 10:15:50 2024 -0300
+
+    remove unsed imports
+
+[33mcommit b5ffc6eb9cea65254c81b55b5579ed7a24b57ddf[m
+Author: = <=>
+Date:   Thu Jul 25 10:11:05 2024 -0300
+
+    create loan service
+
+[33mcommit 0aa838944931052c3b15c0b146ab4910a52705cc[m
+Author: = <=>
+Date:   Thu Jul 25 10:10:45 2024 -0300
+
+    create loans type
+
+[33mcommit 98f9830aca3d91a063ba38f38d92b7d2fd89aa64[m
+Author: = <=>
+Date:   Thu Jul 25 10:09:53 2024 -0300
+
+    create handler exception
+
+[33mcommit ca9a12a42e1cc76ccf7e9fb117466da064355530[m
+Author: = <=>
+Date:   Thu Jul 25 10:09:35 2024 -0300
+
+    update controller
+
+[33mcommit 8c2b8168558bf44f5ba0ca3b8a35166cf428519c[m
+Author: = <=>
+Date:   Thu Jul 25 10:09:19 2024 -0300
+
+    update DTOs
+
+[33mcommit b723f6f4ced0ed9d6710b22718d3d02bd68657df[m
+Author: = <=>
+Date:   Thu Jul 25 09:31:12 2024 -0300
+
+    create DTOs
+
+[33mcommit 47d84fcdb69acb5a01542f7f3ea61a5263e3766d[m
+Author: = <=>
+Date:   Thu Jul 25 09:30:32 2024 -0300
+
+    create loan type enum
+
+[33mcommit 8269ca2d04eb5d1bbf5e89be448a6bb3506976da[m
+Author: = <=>
+Date:   Thu Jul 25 09:15:19 2024 -0300
+
+    create loan controller
+
+[33mcommit 11571cb3e55ead6c3b353c555726107d2c47b3bd[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 1c09ef9 9bb20ac
+Author: = <=>
+Date:   Thu Jul 25 00:05:11 2024 -0300
+
+    Merge branch 'main' of https://github.com/andre-xizto/loans
+
+[33mcommit 1c09ef945818cb8b1a2a8ef3b6224b05e006f1b0[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: = <=>
+Date:   Wed Jul 24 23:59:06 2024 -0300
+
+    create project
+
+[33mcommit 9bb20ac0c63f958e49e98076d3dc271416fa2046[m
+Author: André xisto <35929740+andre-xizto@users.noreply.github.com>
+Date:   Wed Jul 24 23:55:33 2024 -0300
+
+    Initial commit
