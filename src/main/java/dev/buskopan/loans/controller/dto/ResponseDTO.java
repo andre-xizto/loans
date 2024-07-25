@@ -4,5 +4,5 @@ import dev.buskopan.loans.enums.LoanType;
 
 import java.util.List;
 
-public record ResponseDTO (String customer, List<LoanType> loans) {
+public record ResponseDTO (String customer, List<LoanDTO> loans) {
 }
